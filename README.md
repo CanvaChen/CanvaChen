@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![count](https://profile-counter.glitch.me/CanvaChen/count.svg)
+
 <!--
 **CanvaChen/CanvaChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
